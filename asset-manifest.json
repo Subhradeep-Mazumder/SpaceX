@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d80d4be.chunk.css",
+    "main.js": "/static/js/main.c72a6c61.chunk.js",
+    "main.js.map": "/static/js/main.c72a6c61.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.57e3119b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.57e3119b.js.map",
+    "static/js/2.12288d86.chunk.js": "/static/js/2.12288d86.chunk.js",
+    "static/js/2.12288d86.chunk.js.map": "/static/js/2.12288d86.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef21b62944ff817396e7fb61f09e7c83.js": "/precache-manifest.ef21b62944ff817396e7fb61f09e7c83.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9d80d4be.chunk.css.map": "/static/css/main.9d80d4be.chunk.css.map",
+    "static/js/2.12288d86.chunk.js.LICENSE.txt": "/static/js/2.12288d86.chunk.js.LICENSE.txt",
+    "static/media/Big Falcon Rocketmain.jpg": "/static/media/Big Falcon Rocketmain.bb50eaeb.jpg",
+    "static/media/Falcon 1 Rocket.jpg": "/static/media/Falcon 1 Rocket.93349224.jpg",
+    "static/media/Falcon 9 Rocket.jpg": "/static/media/Falcon 9 Rocket.e8337140.jpg",
+    "static/media/Falcon heavy Rocket.jpg": "/static/media/Falcon heavy Rocket.53c5edf6.jpg",
+    "static/media/App.css": "/static/media/missons.d3cb1f1e.jpg",
+    "static/media/elen-mask.jpg": "/static/media/elen-mask.0e3c8f49.jpg",
+    "static/media/videoplayback.mp4": "/static/media/videoplayback.c563b982.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57e3119b.js",
+    "static/js/2.12288d86.chunk.js",
+    "static/css/main.9d80d4be.chunk.css",
+    "static/js/main.c72a6c61.chunk.js"
+  ]
+}
