@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SpaceX/static/css/main.313d8fd1.chunk.css",
+    "main.js": "/SpaceX/static/js/main.8734895d.chunk.js",
+    "main.js.map": "/SpaceX/static/js/main.8734895d.chunk.js.map",
+    "runtime-main.js": "/SpaceX/static/js/runtime-main.5a683b47.js",
+    "runtime-main.js.map": "/SpaceX/static/js/runtime-main.5a683b47.js.map",
+    "static/js/2.64cf7f06.chunk.js": "/SpaceX/static/js/2.64cf7f06.chunk.js",
+    "static/js/2.64cf7f06.chunk.js.map": "/SpaceX/static/js/2.64cf7f06.chunk.js.map",
+    "index.html": "/SpaceX/index.html",
+    "precache-manifest.e0118aa575c1017be1bf69ddd606aeaf.js": "/SpaceX/precache-manifest.e0118aa575c1017be1bf69ddd606aeaf.js",
+    "service-worker.js": "/SpaceX/service-worker.js",
+    "static/css/main.313d8fd1.chunk.css.map": "/SpaceX/static/css/main.313d8fd1.chunk.css.map",
+    "static/js/2.64cf7f06.chunk.js.LICENSE.txt": "/SpaceX/static/js/2.64cf7f06.chunk.js.LICENSE.txt",
+    "static/media/Big Falcon Rocketmain.jpg": "/SpaceX/static/media/Big Falcon Rocketmain.bb50eaeb.jpg",
+    "static/media/Falcon 1 Rocket.jpg": "/SpaceX/static/media/Falcon 1 Rocket.93349224.jpg",
+    "static/media/Falcon 9 Rocket.jpg": "/SpaceX/static/media/Falcon 9 Rocket.e8337140.jpg",
+    "static/media/Falcon heavy Rocket.jpg": "/SpaceX/static/media/Falcon heavy Rocket.53c5edf6.jpg",
+    "static/media/App.css": "/SpaceX/static/media/missons.d3cb1f1e.jpg",
+    "static/media/elen-mask.jpg": "/SpaceX/static/media/elen-mask.0e3c8f49.jpg",
+    "static/media/videoplayback.mp4": "/SpaceX/static/media/videoplayback.c563b982.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a683b47.js",
+    "static/js/2.64cf7f06.chunk.js",
+    "static/css/main.313d8fd1.chunk.css",
+    "static/js/main.8734895d.chunk.js"
+  ]
+}
